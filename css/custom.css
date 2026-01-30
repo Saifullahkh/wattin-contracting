@@ -1540,7 +1540,7 @@ body > div.header-panel-btm > div > div > div > div.navigation-navbar--global-im
     /*}*/
 
     .slide-2, .slide-3, .slide-4, .slide-5{
-        padding: 7rem 0 10rem !important;
+        padding: 3rem 0 0rem !important;
     }
 
     .slide-2 .slide-2__wrapper{
